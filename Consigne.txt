@@ -1,0 +1,7 @@
+TodoList (liste à checké)
+
+User {login password}
+	-> Liste {nom}
+		-> Items
+			->libelle
+			->checké
